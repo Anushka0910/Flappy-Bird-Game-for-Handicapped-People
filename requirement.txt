@@ -1,0 +1,5 @@
+# Add this to requirement.txt
+
+pygame        # Pygame for game development
+opencv-python  # OpenCV for face/head tracking
+numpy        # Numerical operations, used by OpenCV
